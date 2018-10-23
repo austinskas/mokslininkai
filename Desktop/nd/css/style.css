@@ -1,0 +1,46 @@
+﻿body {
+    font-family: 'News Cycle', sans-serif;
+    font-size: 16px;
+    padding: 20px;
+    background: #F2F2F2;
+    display;inline-block;
+}
+
+h1 {
+color:#0974b3
+}
+
+img {
+width: 150px;
+height: 200px;
+float: left;
+margin:15px;
+}
+
+
+header {
+
+    background-color: white;
+    width: 722px;
+    height: 400px;
+    padding: 5px;
+    margin: 10px;
+    border-top: 5px solid #0974b3;
+}
+
+
+div {
+    background-color: white;
+    width: 305px;
+    height:450px;
+    padding: 25px;
+    margin: 10px;
+    display:inline-block;
+    border-top: 5px solid #0974b3
+}
+
+article {
+width:300px;
+height:300px
+
+}

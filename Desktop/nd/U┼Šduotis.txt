@@ -1,0 +1,6 @@
+﻿1. Parašykite trūkstamą stilių.
+
+2. Išrikiuokite blokus, kaip paveikslėlyje.
+   - Pirmo bloko plotis apie 875px
+   - Antro ir trečio bloko plotis apie 422px
+
